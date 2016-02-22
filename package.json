@@ -1,0 +1,40 @@
+{
+  "name": "console.label",
+  "version": "0.0.1",
+  "description": "Adds a console.label() function that acts like console.log, except it automatically adds a label to each log with the name of the variable being logged",
+  "main": "consoleLabel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClimbsRocks/console.label.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "label",
+    "variable",
+    "name",
+    "debugging",
+    "debug",
+    "stacktrace",
+    "stack",
+    "trace",
+    "console log",
+    "console.log",
+    "console.label",
+    "console label",
+    "consoleLabel",
+    "stack trace",
+    "stack tracing",
+    "variable name",
+    "add label"
+  ],
+  "author": "Preston Parry <climbsbytes@gmail.com> (prestonparry.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClimbsRocks/console.label/issues"
+  },
+  "homepage": "https://github.com/ClimbsRocks/console.label"
+}
